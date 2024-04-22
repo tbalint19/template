@@ -1,0 +1,1 @@
+ALTER TABLE "cars" ADD COLUMN "top_speed" integer NOT NULL;
